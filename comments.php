@@ -1,5 +1,5 @@
 <?php 
-include "header.php"; cdhjhjczxvzxvzxvasdasdas
+include "header.php"; new test
 include "left-menu.php";
 $anno_margin=30;
 $chart1_categories ="";jghj
