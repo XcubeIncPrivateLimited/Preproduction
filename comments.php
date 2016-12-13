@@ -1,4 +1,3 @@
-//test
 <?php 
 include "header.php"; new test
 include "left-menu.php";
