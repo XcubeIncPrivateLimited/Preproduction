@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 //test123
+=======
+>>>>>>> 9fbb7ba85611546d741636e697d42c20af6e8d42
 <?php 
 include "header.php"; new test
 include "left-menu.php";
